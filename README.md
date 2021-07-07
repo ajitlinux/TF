@@ -1,2 +1,2 @@
-# TF
-TF Files
+# terraform
+Terraform code files and resources
